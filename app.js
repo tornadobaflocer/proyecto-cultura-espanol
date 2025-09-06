@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Bienvenido al Proyecto Cultura Español');
+    console.log('Welcome to the Spanish Culture Project');
 });
